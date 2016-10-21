@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sunshine</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+    <string name="tempmax">maxtemp</string>
+    <string name="tempmin">mintemp</string>
+    <string name="idweath">weathid</string>
+</resources>
