@@ -15,7 +15,9 @@ Follow these instructions to build and run the project
     mobile phone's serial number obtained by running `adb devices` command.
 9. Run the app. Click `Run > Run 'app'`. After that Click `Run > Run 'wear'`.
 10. Select the custom watch face from the android wear.
+
 ## Features
+
 * Displays a list of weather forecast from Today's date.
 * Clicking on each item shows detail view of temperature,pressure,etc.
 * Uses Openweathermap Api to pull weather JSON data
