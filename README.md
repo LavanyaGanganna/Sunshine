@@ -27,4 +27,4 @@ Follow these instructions to build and run the project
 
 ## Licence
 
-
+Copyright 2016 Lavanya Ganganna
